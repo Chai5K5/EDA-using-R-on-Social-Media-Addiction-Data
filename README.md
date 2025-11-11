@@ -43,7 +43,9 @@ The project demonstrates how R, along with packages like `ggplot2`, `dplyr`, and
 1. Install the required packages:
    ```r
    install.packages(c("shiny", "ggplot2", "plotly", "dplyr", "readr", "corrplot", "psych"))
-
+2. Open SocialMediaAddiction.R in RStudio.
+3. Run the app
+4. The dashboard will open inside RStudio’s Viewer or your browser.
 
 # 📊 Dataset Overview
 
